@@ -1,3 +1,7 @@
+'''
+WAでした...
+'''
+
 # def
 class attack_survival():
     def __init__(self, num_of_member, num_of_question, points):
